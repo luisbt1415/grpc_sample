@@ -1,4 +1,4 @@
-# gRPC - Docker Sample
+# gRPC - Docker sample
 
 ```
 docker network create grpc_net
